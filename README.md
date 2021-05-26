@@ -2,6 +2,7 @@
 This is a module of compound interest factors which includes single payment, uniform payment series, and arithmetic gradient calculations
 ### **By Zaafirrahman**
 
+
 ## **Installation**
 
 This library can be installed by the pip command, open your terminal and type in the following command...
